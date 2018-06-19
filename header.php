@@ -1,0 +1,6 @@
+
+	<head>
+	<meta charset="utf-8" />
+	<title>C++ Quiz</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
